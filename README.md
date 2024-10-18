@@ -92,3 +92,5 @@ Tiếp theo, lấy thông tin kết nối của telegram.
 # Kết quả
 
 Chương trình sẽ tự động gửi tin nhắn phản hồi khi bạn offline.
+
+![ket qua](images/result.png)
